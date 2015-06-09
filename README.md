@@ -41,4 +41,5 @@ O aplicativo deverá funcionar em dispositivos Android 4+. Considere que o testa
 #### Contatos a disposição
 
 Caio : caiobiodere@gmail.com
+
 Fernando : claudio.fernando@gmail.com
