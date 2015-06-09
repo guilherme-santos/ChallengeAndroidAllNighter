@@ -17,8 +17,8 @@ O aplicativo deverá funcionar em dispositivos Android 4+. Considere que o testa
 #### Regras de negócio
 
 1. Temos um prédio de X andares, com uma garagem acima do térreo.
-2. Cada andar contém y metros de altura. (garagem com y+z de altura)
-3. Faça um codigo para o elevador funcionar e subir ate a garagem.
+2. Cada andar contém Y metros de altura. (garagem com y+z de altura)
+3. Faça um codigo para o elevador funcionar subindo ate a garagem, depois até o ultimo andar e realizar a volta para o terréo.
 4. Dê enfase na estruturação do codigo, sempre usando MVC
 
 ===============================================
