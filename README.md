@@ -1,6 +1,6 @@
 # ChallengeAndroidAllNighter
 
-[![](http://i.imgur.com/qQJlf17.png)]
+[![](http://i.imgur.com/A0PZOKN.png)]
 (http://www.allnighter.co/)
 
 ====================
