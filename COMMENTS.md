@@ -1,6 +1,5 @@
 # Comentarios
 
-====================
 #### Versão 0.1.0
 
 Gosto de trabalhar tendo a idéia de *continuous delivery*, gosto de validar o *quanto antes*
